@@ -1,3 +1,9 @@
+'''
+Special thanks to voidtools for es.exe and programmer Sylvain Pelissier for pyuac script(admincheck).
+Delete Ground.exe - g(appname).exe - from windows 10 computer.
+Conveniently useable as a startup program due to the behavior of G.exe reinstalling itself.
+'''
+
 import os, subprocess
 import plyer.platforms.win.notification
 from plyer import notification
